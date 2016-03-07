@@ -1,0 +1,4 @@
+plugins:
+    config:
+        fileproxy:
+            publish: [jpg, gif, png, pdf]
